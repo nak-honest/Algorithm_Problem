@@ -7,9 +7,9 @@ BOARD = [list(input()) for _ in range(N)]
 
 # 보드에서 8x8 크기의 일 부분을 받아서 체스판으로 만드려고 할때 칠해야하는 개수를 반환한다.
 def get_paint_num(board_part):
-    diff1 = [CHESS_BOARD_1[i][j] == board_part[i][j] for i in range(8) for j in range(8)]
-    diff2 = [CHESS_BOARD_2[i][j] == board_part[i][j] for i in range(8) for j in range(8)]
-    return min(diff1.count(False), diff2.count(False))
+    diff1 = [CHESS_BOARD_1[i][j] != board_part[i][j] for i in range(8) for j in range(8)]
+    diff2 = [CHESS_BOARD_2[i][j] != board_part[i][j] for i in range(8) for j in range(8)]
+    return min(diff1.count(True), diff2.count(True))
 
 min_paint = 64
 
