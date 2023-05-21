@@ -1,5 +1,6 @@
 # sort() 함수를 사용하지 않고 직접 merge, quick, heap sort를 구현해보겠다.
 # 단 quick sort는 최악의 경우 O(N^2)이므로 테스트에 통과하지는 못한다.
+# 현재 백준에서 테스트를 돌려보면 시간이 오래걸린다. 기말고사가 끝나면 더 효율적으로 작성해보자.
 def merge_sort(unsorted_list):
     merge_sort_recursive(unsorted_list, 0, len(unsorted_list) - 1)
 
