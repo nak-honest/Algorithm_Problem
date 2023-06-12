@@ -9,8 +9,7 @@
 - 백준 9663(N-Queen)
   > [9663.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/22_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/9663.py)   
   > 예전에 배운 방식으로 푸니 시간초과가 발생했다.   
-  > pypy3로 제출하면 통과하지만 python3로 통과하는 코드도 있으니   
-  > 시험이 끝나면 다시 도전해 보자.
+  > pypy3로 제출하면 통과하지만 python3로 통과하는 코드도 있으니 시험이 끝나면 다시 도전해 보자.
   
 ## 복잡하게 푼 문제
 - 백준 11005(진법 변환2)
