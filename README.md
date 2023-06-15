@@ -10,7 +10,10 @@
   > [9663.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/22_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/9663.py)   
   > 예전에 배운 방식으로 푸니 시간초과가 발생했다.   
   > pypy3로 제출하면 통과하지만 python3로 통과하는 코드도 있으니 시험이 끝나면 다시 도전해 보자.
-  
+- 백준 2580(스도쿠)
+  > [2580.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/22_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/2580.py)   
+  > 재귀 호출이 끝나면 빈칸을 채운 것을 다시 0으로 설정해야 하는데, 이를 알아차리는데 오래걸렸다.
+  > 그리고 pypy3로 제출하면 통과하지만 python3로 제출 시 시간초과가 발생한다.
 ## 복잡하게 푼 문제
 - 백준 11005(진법 변환2)
   > [11005.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/8_%EC%9D%BC%EB%B0%98%EC%88%98%ED%95%991/11005.py)
