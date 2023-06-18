@@ -14,6 +14,10 @@
   > [2580.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/22_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/2580.py)   
   > 재귀 호출이 끝나면 빈칸을 채운 것을 다시 0으로 설정해야 하는데, 이를 알아차리는데 오래걸렸다.
   > 그리고 pypy3로 제출하면 통과하지만 python3로 제출 시 시간초과가 발생한다.
+- 백준 1149(RGB거리)
+  > [1149.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/23_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%951/1149.py)   
+  > 해당 풀이 방법을 생각해 내지 못했다. 약간은 근접했는데, 비슷한 유형의 문제를 더 풀어야 한다.
+
 ## 복잡하게 푼 문제
 - 백준 11005(진법 변환2)
   > [11005.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/8_%EC%9D%BC%EB%B0%98%EC%88%98%ED%95%991/11005.py)
