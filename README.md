@@ -20,7 +20,12 @@
 
 ## 복잡하게 푼 문제
 - 백준 11005(진법 변환2)
-  > [11005.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/8_%EC%9D%BC%EB%B0%98%EC%88%98%ED%95%991/11005.py)
+  > [11005.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/8_%EC%9D%BC%EB%B0%98%EC%88%98%ED%95%991/11005.py)   
+  > 평소 진법을 계산하는 방식이 복잡해서 이를 그대로 알고리즘에 적용하려 하니 많이 복잡해졌다.
+- 백준 1463(1로 만들기)
+  > [1463.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/23_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%951/1463.py)   
+  > Top-Down 방식의 DP가 훨씬 효율적인데, DP가 아닌 백트래킹으로 문제를 해결했다.
+  > 메모이제이션을 연산 결과로 저장하려 해서 잘 풀리지 않았다.
   
 ## 더 효율적으로 푼 문제
 - 백준 1436(영화감독 숌)
