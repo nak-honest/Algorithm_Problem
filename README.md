@@ -17,6 +17,9 @@
 - 백준 1149(RGB거리)
   > [1149.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/23_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%951/1149.py)   
   > 해당 풀이 방법을 생각해 내지 못했다. 약간은 근접했는데, 비슷한 유형의 문제를 더 풀어야 한다.
+- 백준 2565(전깃줄)
+  > [2565.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/23_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%951/2565.py)
+  > 이 문제를 보고 LIS라는 것을 알기 어려웠다. 자세한 내용은 코드 참조.
 
 ## 복잡하게 푼 문제
 - 백준 11005(진법 변환2)
