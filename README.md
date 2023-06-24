@@ -14,6 +14,8 @@
   > [2565.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/23_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%951/2565.py)   
 - 백준 9251(LCS)
   > [9251.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/23_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%951/9251.py)
+- 백준 12865.py(평범한 배낭)
+  > [12865.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/23_동적_계획법1/12865.py)   
 
 ## 복잡하게 푼 문제
 - 백준 11005(진법 변환2)
