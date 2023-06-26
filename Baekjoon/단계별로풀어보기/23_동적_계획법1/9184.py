@@ -2,6 +2,7 @@ import sys
 
 W = dict()
 
+# 메모이제이션을 활용한 DP
 def get_W(a, b, c):
     if (a, b, c) in W:
         return W[(a, b, c)]

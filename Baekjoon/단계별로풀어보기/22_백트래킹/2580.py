@@ -6,12 +6,13 @@ import sys
 sdoku = [list(map(int, sys.stdin.readline().split())) for _ in range(9)]
 fill_index = []
 
+# 빈칸의 인덱스를 찾는다.
 for i in range(9):
     for j in range(9):
         if sdoku[i][j] == 0:
             fill_index.append((i, j))
 
-fill_num = len(fill_index)
+fill_num = len(fill_index) # 빈칸의 개수
 is_end = False
 
 
@@ -24,7 +25,9 @@ def solve_sdoku(depth):
                 print(*line)
 
         else:
+            # 다음 빈칸의 인덱스를 가져온다.
             i, j = fill_index[depth+1]
+            # 다음 빈칸에 1~9를 넣어서 다음 depth의 노드를 방문한다.
             for n in range(1, 10):
                 sdoku[i][j] = n
                 solve_sdoku(depth + 1)
@@ -42,10 +45,12 @@ def promising(depth):
     i, j = fill_index[depth]
     new_num = sdoku[i][j]
 
+    # 같은 열에 있는 경우
     for row in range(9):
         if row != i and new_num == sdoku[row][j]:
             return False
 
+    # 같은 행에 있는 경우
     for col in range(9):
         if col != j and new_num == sdoku[i][col]:
             return False
@@ -53,6 +58,7 @@ def promising(depth):
     row = (i // 3) * 3
     col = (j // 3) * 3
 
+    # 같은 3X3 정사각형 구역에 있는 경우
     for r in range(3):
         for c in range(3):
             if (row + r != i or col + c != j) and sdoku[row+r][col+c] == new_num:
