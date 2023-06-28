@@ -14,7 +14,7 @@
   > [2565.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/23_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%951/2565.py)   
 - 백준 9251(LCS)
   > [9251.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/23_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%951/9251.py)
-- 백준 12865.py(평범한 배낭)
+- 백준 12865(평범한 배낭)
   > [12865.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/23_동적_계획법1/12865.py)   
 
 ## 복잡하게 푼 문제
@@ -22,7 +22,9 @@
   > [11005.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/8_%EC%9D%BC%EB%B0%98%EC%88%98%ED%95%991/11005.py)   
 - 백준 1463(1로 만들기)
   > [1463.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/23_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%951/1463.py)   
-  
+- 백준 11660(구간 합 구하기 5)
+  > [11660.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/24_누적합/11660.py)   
+
 ## 더 효율적으로 푼 문제
 - 백준 1436(영화감독 숌)
   > [1436.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/12_%EB%B8%8C%EB%A3%A8%ED%8A%B8_%ED%8F%AC%EC%8A%A4/1436.py)
