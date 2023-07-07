@@ -24,6 +24,8 @@
   > [1463.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/23_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%951/1463.py)   
 - 백준 11660(구간 합 구하기 5)
   > [11660.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/24_누적합/11660.py)   
+- 백준 1629(곱셈)
+  > [1629.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/1629.py)   
 
 ## 더 효율적으로 푼 문제
 - 백준 1436(영화감독 숌)
