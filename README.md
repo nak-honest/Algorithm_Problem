@@ -17,7 +17,9 @@
 - 백준 12865(평범한 배낭)
   > [12865.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/23_동적_계획법1/12865.py)
 - 백준 11401(이항 계수 3)
-  > [11401.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/11401.py)   
+  > [11401.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/11401.py)
+- 백준 11444(피보나치 수 6)
+  > [11444.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/11444.py)   
 
 ## 복잡하게 푼 문제
 - 백준 11005(진법 변환2)
