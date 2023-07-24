@@ -31,6 +31,8 @@
 - 백준 1629(곱셈)
   > [1629.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/1629.py)   
 
-## 더 효율적으로 푼 문제
-- 백준 1436(영화감독 숌)
-  > [1436.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/12_%EB%B8%8C%EB%A3%A8%ED%8A%B8_%ED%8F%AC%EC%8A%A4/1436.py)
+## 효율적으로 푼 문제
+- 백준 1956(운동)
+  > [1956.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/32_최단경로/1956.py)   
+  > pypy3로 속도에서 전체 2등을 했습니다.   
+  > 힙으로 구현한 다익스트라에 백트래킹을 혼합해서 풀었습니다.
