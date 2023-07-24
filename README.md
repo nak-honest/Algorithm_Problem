@@ -19,8 +19,10 @@
 - 백준 11401(이항 계수 3)
   > [11401.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/11401.py)
 - 백준 11444(피보나치 수 6)
-  > [11444.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/11444.py)   
-
+  > [11444.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/11444.py)
+- SWEA 1855(영준이의 진짜 BFS)
+  > [1855.cpp](https://github.com/nak-honest/Algorithm_Problem/blob/main/SWEA/day_04/1855.cpp)   
+   
 ## 복잡하게 푼 문제
 - 백준 11005(진법 변환2)
   > [11005.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/8_%EC%9D%BC%EB%B0%98%EC%88%98%ED%95%991/11005.py)   
