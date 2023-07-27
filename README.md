@@ -1,4 +1,20 @@
 밑의 문제들은 시간이 지나면 다시 풀어보자.
+## 효율적으로 푼 문제
+- 백준 1956(운동)
+  > [1956.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/32_최단경로/1956.py)   
+  > pypy3로 속도에서 전체 2등을 했습니다.   
+  > 힙으로 구현한 다익스트라에 백트래킹을 혼합해서 풀었습니다.   
+- 프로그래머스 87946(피로도)
+  > [87946.py](https://github.com/nak-honest/Algorithm_Study/blob/main/9th_Algorithm_Study/Programmers_87946/87946.py)
+  > 대부분의 풀이와 다르게 dp를 이용해서 효율적으로 문제를 풀었습니다.
+- 프로그래머스 42842(카펫)
+  > [42842.py](https://github.com/nak-honest/Algorithm_Study/blob/main/9th_Algorithm_Study/Programmers_42842/42842.py)
+  > 이분탐색을 이용해 약수를 구하는 것보다 효율적으로 문제를 풀었습니다.
+- 프로그래머스 42583(다리를 지나는 트럭)
+  > 트럭이 없음을 0으로 표현하면 불필요하게 0을 집어넣는데 시간이 많이 쓰입니다.
+  > 따라서 다리에 트럭이 들어갈 수 없다면 0을 집어넣는 대신
+  > 한번에 시간을 건너 뜀으로써 시간을 많이 단축했습니다.
+
 ## 어려웠던 문제
 - 백준 10989(수 정렬하기3)
   > [10989.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/13_%EC%A0%95%EB%A0%AC/10989.py)  
@@ -32,9 +48,3 @@
   > [11660.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/24_누적합/11660.py)   
 - 백준 1629(곱셈)
   > [1629.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/1629.py)   
-
-## 효율적으로 푼 문제
-- 백준 1956(운동)
-  > [1956.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/32_최단경로/1956.py)   
-  > pypy3로 속도에서 전체 2등을 했습니다.   
-  > 힙으로 구현한 다익스트라에 백트래킹을 혼합해서 풀었습니다.
