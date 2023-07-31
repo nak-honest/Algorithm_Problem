@@ -38,7 +38,9 @@
 - 백준 11444(피보나치 수 6)
   > [11444.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/11444.py)
 - SWEA 1855(영준이의 진짜 BFS)
-  > [1855.cpp](https://github.com/nak-honest/Algorithm_Problem/blob/main/SWEA/day_04/1855.cpp)   
+  > [1855.cpp](https://github.com/nak-honest/Algorithm_Problem/blob/main/SWEA/day_04/1855.cpp)
+- SWEA 10806(수 만들기)
+  > [10806.cpp](https://github.com/nak-honest/Algorithm_Problem/blob/main/SWEA/day_06/10806.cpp)   
    
 ## 복잡하게 푼 문제
 - 백준 11005(진법 변환2)
