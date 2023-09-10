@@ -39,6 +39,8 @@
   > [11444.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/26_분할_정복/11444.py)   
 - 백준 2293(동전 1)
   > [2293.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/29_동적_계획법2/2293.py)
+- 백준 1450(냅색문제)
+  > [1450.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/33_투_포인터/1450.py)   
 - SWEA 1855(영준이의 진짜 BFS)
   > [1855.cpp](https://github.com/nak-honest/Algorithm_Problem/blob/main/SWEA/day_04/1855.cpp)
 - SWEA 10806(수 만들기)
