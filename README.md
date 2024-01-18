@@ -16,6 +16,11 @@
   > [1956.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/32_최단경로/1956.py)   
   > pypy3로 속도에서 전체 2등을 했습니다.   
   > 힙으로 구현한 다익스트라에 백트래킹을 혼합해서 풀었습니다.   
+- 백준 1202(보석 도둑)
+  > [1202.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/백준_클래스/Class5/1202.py)
+  > pypy3로 속도에서 전체 13등을 했습니다.
+  > 어느 가방에 보석을 넣을 수 있는지 이분 탐색을 통해 찾았습니다.
+  > 또한 보석을 넣을 다음 가방의 인덱스를 저장해서, 빠르게 어느 가방을 선택해야 할지 찾았습니다.
 - 프로그래머스 87946(피로도)
   > [87946.py](https://github.com/nak-honest/Algorithm_Study/blob/main/9th_Algorithm_Study/Programmers_87946/87946.py)   
   > 대부분의 풀이와 다르게 dp를 이용해서 효율적으로 문제를 풀었습니다.
