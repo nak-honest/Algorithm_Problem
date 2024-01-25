@@ -17,7 +17,7 @@
   > pypy3로 속도에서 전체 2등을 했습니다.   
   > 힙으로 구현한 다익스트라에 백트래킹을 혼합해서 풀었습니다.   
 - 백준 1202(보석 도둑)
-  > [1202.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/백준_클래스/Class5/1202.py)
+  > [1202.py](https://github.com/nhlee98/Algorithm_Problem/blob/main/Baekjoon/백준_클래스/Class5/1202.py)   
   > pypy3로 속도에서 전체 13등을 했습니다.
   > 어느 가방에 보석을 넣을 수 있는지 이분 탐색을 통해 찾았습니다.
   > 또한 보석을 넣을 다음 가방의 인덱스를 저장해서, 빠르게 어느 가방을 선택해야 할지 찾았습니다.
@@ -60,6 +60,8 @@
   > [1450.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/33_투_포인터/1450.py)  
 - 백준 2618(경찰차)   
   > [2618.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/34_동적_계획법과_최단거리_역추적/2618.py)   
+- 백준 2166(다각형의 면적)
+  > [2166.py](https://github.com/nak-honest/Algorithm_Problem/blob/main/Baekjoon/단계별로풀어보기/39_기하2/2166.py)
 - SWEA 1855(영준이의 진짜 BFS)
   > [1855.cpp](https://github.com/nak-honest/Algorithm_Problem/blob/main/SWEA/day_04/1855.cpp)
 - SWEA 10806(수 만들기)
